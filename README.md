@@ -8,8 +8,10 @@ Rollup plugin for [javascript-obfuscator](https://github.com/javascript-obfuscat
 
 Install the package:
 
-- npm `npm install --save-dev rollup-plugin-javascript-obfuscator`
-- yarn `yarn add --dev rollup-plugin-javascript-obfuscator`
+- ~~npm `npm install --save-dev rollup-plugin-javascript-obfuscator`~~
+- ~~yarn `yarn add --dev rollup-plugin-javascript-obfuscator`~~
+- npm `npm install --save-dev @kuaizi/rollup-plugin-javascript-obfuscator`
+- yarn `yarn add --dev @kuaizi/rollup-plugin-javascript-obfuscator`
 
 ## Usage
 
